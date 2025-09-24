@@ -1,6 +1,5 @@
 #include <iostream>
 #include "board.h"
-#include "entry.h"
 #define SIZE 5
 using namespace std;
 
